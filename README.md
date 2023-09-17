@@ -1,6 +1,6 @@
 # facite-backend
 
-This is the backend API for my project, [https://github.com/alexindevs/facite](Facite). 
+This is the backend API for my project, [Facite](https://github.com/alexindevs/facite). 
 
 ## Technologies Used
 
@@ -15,5 +15,5 @@ This is the backend API for my project, [https://github.com/alexindevs/facite](F
 
 ## Important Links
 
-[https://facite-three.vercel.app](Facite)
-[https://github.com/alexindevs](Alex)
+[Facite](https://facite-three.vercel.app)
+[Alex](https://github.com/alexindevs)
