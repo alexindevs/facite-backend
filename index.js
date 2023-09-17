@@ -13,7 +13,7 @@ const Task = require('./schemas/task');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-app.use(cors({ origin: 'http://facite-three.vercel.app' }));
+app.use(cors({ origin: 'https://facite-three.vercel.app' }));
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
